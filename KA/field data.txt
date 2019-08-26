@@ -1,0 +1,30 @@
+keyword : vaksin or imunisasi
+kolom:
+user_id (node)
+jumlah_retweet (edge), jumalah likes
+lokasi twet : geotaging (longitude, layitude), profiluser (author description), location
+
+status count
+favourite count
+friend count
+follower count
+
+created_at
+text
+full_text (termasuk retweet
+name
+screen_name
+location
+followers_count
+friends_count
+favourites_count
+statuses_count
+reply_count
+retweet_count
+favorite_count
+geo
+coordinates
+place
+hashtags.text
+country_code ="ID"
+lang="in"
