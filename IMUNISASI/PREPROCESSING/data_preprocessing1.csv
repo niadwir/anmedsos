@@ -1,0 +1,4 @@
+['id', 'created_at', 'text', 'time_zone', 'place', 'coordinates', 'location', 'user_name', 'screen_name', 'retweet_count', 'favourite_count']
+['id', 'created_at', 'text', 'time_zone', 'place', 'coordinates', 'location', 'user_name', 'screen_name', 'retweet_count', 'favourite_count']
+['id', 'created_at', 'text']
+['id', 'created_at', 'text']
