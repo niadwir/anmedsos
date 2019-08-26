@@ -1,0 +1,7 @@
+www.bps.go.id	web resmi
+aceh.bps.go.id	web prop
+simeulue.bps.go.id	web kab
+simpeg.bps.go.id	web operasional
+rb.bps.go.id
+silastik.bps.go.id
+sirusa.bps.go.id
